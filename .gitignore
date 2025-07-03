@@ -1,0 +1,30 @@
+# Minecraft server files to ignore
+
+
+
+# Logs
+logs/
+*.log
+
+# Libraries and mods (optional, nếu bạn không muốn quản lý bằng git)
+
+
+
+
+# Backup, script tạm, file hệ thống
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Configs mặc định (nếu không muốn quản lý)
+defaultconfigs/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore shell history and editor swap files
+*.sh~
+*.bat~
+*.old
