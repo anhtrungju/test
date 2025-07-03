@@ -1,291 +1,534 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-07-03 12:30:54 +0000"
+      "unlock_right_away": "2025-07-03 14:38:25 +0000"
     },
     "done": true
   },
   "pk_waystones:events/once/prepare": {
     "criteria": {
-      "requirement": "2025-07-03 12:30:54 +0000"
+      "requirement": "2025-07-03 14:38:25 +0000"
     },
     "done": true
   },
   "apotheosis:progression/root": {
     "criteria": {
-      "tick": "2025-07-03 12:30:54 +0000"
+      "tick": "2025-07-03 14:38:25 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2025-07-03 12:30:54 +0000"
+      "requirement": "2025-07-03 14:38:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-03 14:38:25 +0000"
     },
     "done": true
   },
   "aoa3:completionist/by_the_books": {
     "criteria": {
-      "legitimate": "2025-07-03 12:30:54 +0000"
+      "legitimate": "2025-07-03 14:38:25 +0000"
     },
     "done": true
   },
-  "blazeandcave:biomes/high_feet": {
+  "betterdungeons:root": {
     "criteria": {
-      "grove": "2025-07-03 12:30:55 +0000",
-      "jagged_peaks": "2025-07-03 12:32:32 +0000"
+      "always": "2025-07-03 14:38:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
-      "grove": "2025-07-03 12:30:55 +0000",
-      "jagged_peaks": "2025-07-03 12:32:32 +0000"
+      "snowy_plains": "2025-07-03 14:38:26 +0000",
+      "snowy_taiga": "2025-07-03 14:39:06 +0000"
     },
     "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 12:30:55 +0000"
+      "log_spam_fixer": "2025-07-03 14:38:26 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/root": {
     "criteria": {
-      "location": "2025-07-03 12:30:55 +0000"
+      "location": "2025-07-03 14:38:26 +0000"
     },
     "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 12:30:55 +0000"
+      "log_spam_fixer": "2025-07-03 14:38:26 +0000"
     },
     "done": false
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 12:30:55 +0000"
+      "log_spam_fixer": "2025-07-03 14:38:26 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/cold_feet": {
+    "criteria": {
+      "snowy_plains": "2025-07-03 14:38:26 +0000",
+      "snowy_taiga": "2025-07-03 14:39:06 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "snowy_slopes_or_grove": "2025-07-03 12:30:55 +0000",
-      "peaks": "2025-07-03 12:32:32 +0000"
+      "snowy_plains": "2025-07-03 14:38:26 +0000",
+      "snowy_taiga": "2025-07-03 14:39:06 +0000"
     },
     "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2025-07-03 12:30:55 +0000"
+      "log_spam_fixer": "2025-07-03 14:38:26 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
-      "getting_wood": "2025-07-03 12:39:23 +0000",
-      "bacap_root": "2025-07-03 12:30:56 +0000",
-      "heart_of_darkness": "2025-07-03 12:32:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-03 12:39:11 +0000"
+      "pick_like_silk": "2025-07-03 14:58:07 +0000",
+      "diamonds": "2025-07-03 14:58:07 +0000",
+      "getting_wood": "2025-07-03 14:40:55 +0000",
+      "bacap_root": "2025-07-03 14:38:27 +0000",
+      "care_for_the_environment": "2025-07-03 14:43:16 +0000",
+      "heart_of_darkness": "2025-07-03 14:39:07 +0000",
+      "the_first_night": "2025-07-03 14:57:46 +0000",
+      "statistics_root": "2025-07-03 14:57:48 +0000",
+      "now_youre_thinking_with_portals": "2025-07-03 14:58:41 +0000"
     },
     "done": false
   },
   "blazeandcave:mining/heart_of_darkness": {
     "criteria": {
-      "enter_cave": "2025-07-03 12:32:21 +0000"
+      "enter_cave": "2025-07-03 14:39:06 +0000"
     },
     "done": true
   },
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
-      "heart_of_darkness": "2025-07-03 12:32:22 +0000"
+      "diamonds": "2025-07-03 14:58:07 +0000",
+      "heart_of_darkness": "2025-07-03 14:39:07 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
+      "has_stick": "2025-07-03 14:40:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
+      "has_stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "diamond": "2025-07-03 14:58:06 +0000",
+      "stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-03 14:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-03 14:40:50 +0000"
     },
     "done": true
   },
   "blazeandcave:building/spruce_lee": {
     "criteria": {
-      "spruce_planks": "2025-07-03 12:39:29 +0000",
-      "spruce_log": "2025-07-03 12:39:23 +0000"
+      "spruce_log": "2025-07-03 14:40:55 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
-      "cyan_carpet": "2025-07-03 12:38:58 +0000",
-      "spruce_planks": "2025-07-03 12:39:29 +0000",
-      "spruce_log": "2025-07-03 12:39:23 +0000"
+      "spruce_sapling": "2025-07-03 14:42:36 +0000",
+      "diamond_block": "2025-07-03 14:57:58 +0000",
+      "diamond_ore": "2025-07-03 14:58:06 +0000",
+      "spruce_log": "2025-07-03 14:40:55 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_log": "2025-07-03 12:39:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
+      "has_log": "2025-07-03 14:40:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_logs": "2025-07-03 12:39:23 +0000"
+      "has_logs": "2025-07-03 14:40:55 +0000"
     },
     "done": true
   },
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
-      "spruce_log": "2025-07-03 12:39:23 +0000"
+      "spruce_log": "2025-07-03 14:40:55 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_log": "2025-07-03 12:39:23 +0000"
+      "has_log": "2025-07-03 14:40:55 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/fuzzy_feet": {
-    "criteria": {
-      "cyan_carpet": "2025-07-03 12:38:58 +0000"
-    },
-    "done": false
   },
   "blazeandcave:bacap/getting_wood": {
     "criteria": {
-      "spruce_log": "2025-07-03 12:39:23 +0000"
+      "spruce_log": "2025-07-03 14:40:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "blazeandcave:challenges/i_am_loot": {
     "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
+      "ruined_portal": "2025-07-03 14:41:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-03 14:58:51 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-03 14:42:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "blazeandcave:bacap/farming_milestone": {
     "criteria": {
-      "has_planks": "2025-07-03 12:39:29 +0000"
+      "care_for_the_environment": "2025-07-03 14:43:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/care_for_the_environment": {
+    "criteria": {
+      "spruce_sapling": "2025-07-03 14:43:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/ecologist": {
+    "criteria": {
+      "spruce_sapling": "2025-07-03 14:43:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:enchanting/pick_like_silk": {
+    "criteria": {
+      "diamond_ore": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000",
+      "the_first_night": "2025-07-03 14:57:46 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/enchanting_milestone": {
+    "criteria": {
+      "pick_like_silk": "2025-07-03 14:58:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-03 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch2_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch4_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "ruined_portal": "2025-07-03 14:58:40 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch6_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/relay_mk1": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch8_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/now_youre_thinking_with_portals": {
+    "criteria": {
+      "ruined_portal": "2025-07-03 14:58:40 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2025-07-03 14:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/decorations/collector_mk1": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch1_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "the_first_night": "2025-07-03 14:57:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch3_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch5_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch7_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch9_mid": {
+    "criteria": {
+      "root": "2025-07-03 14:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "now_youre_thinking_with_portals": "2025-07-03 14:58:41 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/mineral_collection": {
+    "criteria": {
+      "diamond_block": "2025-07-03 14:57:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-03 14:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-03 14:58:06 +0000"
     },
     "done": true
   },

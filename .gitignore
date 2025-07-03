@@ -5,7 +5,7 @@
 # Logs
 logs/
 *.log
-
+*.log.gz
 # Libraries and mods (optional, nếu bạn không muốn quản lý bằng git)
 
 
